@@ -17,6 +17,7 @@
             </p>
             <p>
                 <a class="btn btn-default" href="http://go.microsoft.com/fwlink/?LinkId=301948">Learn more &raquo;</a>
+                <a class="navbar-brand" runat="server" href="~/">Application Name</a>
             </p>
         </div>
         <div class="col-md-4">
@@ -26,6 +27,7 @@
             </p>
             <p>
                 <a class="btn btn-default" href="http://go.microsoft.com/fwlink/?LinkId=301949">Learn more &raquo;</a>
+                <a class="navbar-brand" runat="server" href="~/">Sudha SenthilKumar</a>
             </p>
         </div>
         <div class="col-md-4">
